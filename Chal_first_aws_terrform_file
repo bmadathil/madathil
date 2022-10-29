@@ -1,5 +1,4 @@
-export AWS_ACCESS_KEY_ID="AKIAXIZMVD7EOC27ZNM2"
-export AWS_SECRET_ACCESS_KEY="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"
+
 terraform init
 terraform fmt
 terraform validate
